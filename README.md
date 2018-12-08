@@ -1,12 +1,8 @@
-# laravel-react-crud
-Laravel React JS CRUD APP
-<hr/>
-To run this project, do the following:
-<br/>
-php artisan key:generate
-<br/>
-composer install
-<br/>
-npm install
-<br/>
-Thank you!
+## Laravel React TaskManager App
+
+Integrate React.js with Laravel to perform CRUD operations
+
+## App Screenshots
+
+<img src="app.png" alt="Laravel React CRUD" />
+<img src="app2.png" alt="Laravel React CRUD" />
